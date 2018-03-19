@@ -1,0 +1,14 @@
+c:\users\ljeon\documents\visual studio 2013\Projects\Mapa\Mapa\bin\Debug\Mapa.exe.config
+c:\users\ljeon\documents\visual studio 2013\Projects\Mapa\Mapa\bin\Debug\Mapa.exe
+c:\users\ljeon\documents\visual studio 2013\Projects\Mapa\Mapa\bin\Debug\Mapa.pdb
+c:\users\ljeon\documents\visual studio 2013\Projects\Mapa\Mapa\bin\Debug\GoogleMaps.LocationServices.dll
+c:\users\ljeon\documents\visual studio 2013\Projects\Mapa\Mapa\obj\Debug\Mapa.csprojResolveAssemblyReference.cache
+c:\users\ljeon\documents\visual studio 2013\Projects\Mapa\Mapa\obj\Debug\Mapa.Form1.resources
+c:\users\ljeon\documents\visual studio 2013\Projects\Mapa\Mapa\obj\Debug\Mapa.Properties.Resources.resources
+c:\users\ljeon\documents\visual studio 2013\Projects\Mapa\Mapa\obj\Debug\Mapa.csproj.GenerateResource.Cache
+c:\users\ljeon\documents\visual studio 2013\Projects\Mapa\Mapa\obj\Debug\Mapa.exe
+c:\users\ljeon\documents\visual studio 2013\Projects\Mapa\Mapa\obj\Debug\Mapa.pdb
+c:\users\ljeon\documents\visual studio 2013\Projects\Mapa\Mapa\bin\Debug\Mapa.exe.manifest
+c:\users\ljeon\documents\visual studio 2013\Projects\Mapa\Mapa\bin\Debug\Mapa.application
+c:\users\ljeon\documents\visual studio 2013\Projects\Mapa\Mapa\obj\Debug\Mapa.exe.manifest
+c:\users\ljeon\documents\visual studio 2013\Projects\Mapa\Mapa\obj\Debug\Mapa.application
